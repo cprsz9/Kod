@@ -1,0 +1,11 @@
+﻿  progBankomat.cpp
+C:\Users\cypri\source\repos\progBankomat\progBankomat\uzytkownik.cpp(23,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „progBankomat.cpp”)
+  
+C:\Users\cypri\source\repos\progBankomat\progBankomat\uzytkownik.cpp(59,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „progBankomat.cpp”)
+  
+C:\Users\cypri\source\repos\progBankomat\progBankomat\bankomat.cpp(14,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „progBankomat.cpp”)
+  
+  progBankomat.vcxproj -> C:\Users\cypri\source\repos\progBankomat\x64\Debug\progBankomat.exe
